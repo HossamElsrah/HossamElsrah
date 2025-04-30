@@ -12,6 +12,7 @@
 ## 🚀 Professional Summary
 
 **Data Solutions Architect** specializing in end-to-end business analytics:
+From data collection → cleaning → analysis → deployment:  
 
 🔹 **Data Mastery**  
 - Collect from any source: Web scraping, APIs, databases, files (Excel, CSV, Google Sheets)  
@@ -24,7 +25,6 @@
 - Develop ML models that forecast trends  
 
 🔹 **Full-Cycle Delivery**  
-From data collection → cleaning → analysis → deployment:  
 - Automated reports  
 - Production APIs  
 - Self-service dashboards
