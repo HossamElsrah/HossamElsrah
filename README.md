@@ -9,7 +9,7 @@
 
 ---
 
-## 🚀 Professional Summary
+## Summary
 
 **Data Solutions Architect** specializing in end-to-end business analytics,
 From data collection → cleaning → analysis → deployment:  
