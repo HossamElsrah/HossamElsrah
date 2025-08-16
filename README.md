@@ -94,7 +94,7 @@ From data collection → cleaning → analysis → deployment:
 - 🔭 **ML Productionization**: Building end-to-end data pipelines  
 - 📈 **Growth Analytics**: Identifying revenue opportunities  
 - 🤖 **Process Automation**: Developing self-service BI tools  
-- 🌱 **Learning**: MLOps & Cloud Data Solutions  
+- 🌱 **Learning**: Gen Ai & Cloud Data Solutions  
 
 ---
 
