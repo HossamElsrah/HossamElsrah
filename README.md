@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Hossam Taha 
 
-**Data Scientist | Data Analyst**  
+**AI Engineer | Data Scientist**  
 📍 Mansoura, Egypt  
 
 [![LinkedIn](https://img.shields.io/badge/-Hossam_Taha-blue?style=flat&logo=linkedin)](https://linkedin.com/in/hossam-taha-41b724288)
@@ -51,43 +51,49 @@ From data collection → cleaning → analysis → deployment:
 
 ## 🛠 Complete Technical Skills
 
+### **Generative AI & LLMs**
+- Hugging Face
+- Ollama
+- LLMs
+- CrewAI
+- NLP
+- CV
+
 ### **Data Science & ML**
-![Python](https://img.shields.io/badge/-Python-black?logo=python)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-orange?logo=tensorflow)
-![Scikit-learn](https://img.shields.io/badge/-Scikit_Learn-blue?logo=scikit-learn)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch)
-![Keras](https://img.shields.io/badge/-Keras-red?logo=keras)
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit)
+- Python
+- TensorFlow
+- Scikit-learn
+- PyTorch
+- Keras
+- Streamlit
 
 ### **Data Engineering**
-![SQL Server](https://img.shields.io/badge/-SQL_Server-blue?logo=microsoft-sql-server)
-![MySQL](https://img.shields.io/badge/-MySQL-blue?logo=mysql)
-![BigQuery](https://img.shields.io/badge/-BigQuery-blue?logo=google-cloud)
-![SSIS](https://img.shields.io/badge/-SSIS-blue?logo=microsoft-sql-server)
-![SSAS](https://img.shields.io/badge/-SSAS-blue?logo=microsoft-sql-server)
-![SSRS](https://img.shields.io/badge/-SSRS-blue?logo=microsoft-sql-server)
-![Fabric](https://img.shields.io/badge/-Microsoft_Fabric-blue?logo=microsoft)
+- SQL Server
+- MySQL
+- BigQuery
+- SSIS
+- SSAS
+- SSRS
+- Fabric
 
 ### **BI & Visualization**
-![Power BI](https://img.shields.io/badge/-Power_BI-yellow?logo=power-bi)
-![Looker](https://img.shields.io/badge/-Looker_Studio-orange?logo=google-data-studio)
-![Tableau](https://img.shields.io/badge/-Tableau-blue?logo=tableau)
+- Power BI
+- Looker Studio
+- Tableau
 
 ### **Data Analysis**
-![Excel](https://img.shields.io/badge/-Excel-green?logo=microsoft-excel)
-![Google Sheets](https://img.shields.io/badge/-Google_Sheets-34A853?logo=google-sheets)
-![Pandas](https://img.shields.io/badge/-Pandas-black?logo=pandas)
-![NumPy](https://img.shields.io/badge/-NumPy-blue?logo=numpy)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-blue?logo=matplotlib)
-![Seaborn](https://img.shields.io/badge/-Seaborn-blue?logo=seaborn)
-![Plotly](https://img.shields.io/badge/-Plotly-blue?logo=plotly)
+- Excel
+- Google Sheets
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Plotly
 
 ### **Automation & Web**
-![Power Automate](https://img.shields.io/badge/-Power_Automate-blue?logo=microsoft)
-![Selenium](https://img.shields.io/badge/-Selenium-green?logo=selenium)
-![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-green?logo=python)
-
----
+- Power Automate
+- Selenium
+- BeautifulSoup
 
 ## 🎯 Current Focus
 
